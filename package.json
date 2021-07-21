@@ -1,0 +1,16 @@
+{
+  "name": "webpack5",
+  "version": "1.0.0",
+  "description": "Practice with WebPack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Randall Ijams",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.39.1",
+    "webpack-cli": "^4.7.2"
+  }
+}
